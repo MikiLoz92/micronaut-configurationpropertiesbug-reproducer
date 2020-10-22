@@ -1,0 +1,8 @@
+micronaut:
+  application:
+    name: configurationpropertiesBugReproducer
+
+# Uncomment this and it will work!
+#
+#elastic:
+#  index-prefix: prefix
